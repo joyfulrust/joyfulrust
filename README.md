@@ -8,8 +8,6 @@
 </p>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=joyfulrust&row=2&column=3&no-frame=true&margin-w=45&margin-h=30&theme=algolia" /> </div>
 
-
-
 <!-- second form 第二个表格 -->
 <table>
   <tr>
